@@ -38,6 +38,9 @@ a{
 li:hover{
   background-color: #FF1493;
 }
+h3{
+  color: #FF1493
+}
 .principal{
   background-image: url(../assets/img/img1.jpg);
   background-repeat: no-repeat;
@@ -46,7 +49,51 @@ li:hover{
   filter: grayscale(100%);
   height: 400px;
 }
-section{
-  margin-left: 50px;
-  margin-right: 50px;
+.info-box1{
+  padding: 10px;
+  
+}
+.info-box2{
+  padding: 10px;
+
+}
+
+.img-section{
+  float: left;
+  padding: 15px;
+  margin: 20px;
+  width: 300px;
+  height: auto;
+  background: #000000;
+  color: #ffff;
+  border-radius: 10px;
+}
+.bg-imgBox{
+  margin-bottom: 20px;
+
+}
+.photo-barbie{
+  width: 100px;
+  height: 100px;
+}
+.text-photos{
+text-align: center;
+}
+footer{
+  background-color: #000000;
+  height: 50px;
+  color: #ffff;
+  padding: 15px;
+  text-align: center;
+}
+button{
+  background-color: #FF1493;
+  padding: 10px 10px;
+  color: #fff;
+  border-radius: 5px;
+  border: 0;
+  font-weight: 600;
+}
+button:hover{
+  background-color: #FF1493;
 }
