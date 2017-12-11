@@ -7,7 +7,9 @@
   background:#000000;
   height: 60px;
   position: fixed;
-  width: 100%
+  z-index: 1000;
+  width: 100%;
+  margin-bottom: 0;
 
 }
 .logo-barbie{
@@ -52,7 +54,8 @@ button{
   font-weight: 600;
 }
 button:hover{
-  background-color: #FF1493;
+  background-color: #ffff;
+  color: #FF1493;
 }
 
 .principal{
