@@ -121,7 +121,7 @@
   margin-left: 100%;
 }
 
-@media (min-width: 768px) {
+@media  (min-width: 768px) {
   .col-sm-1 {
     width: 8.33333333%;
   }
